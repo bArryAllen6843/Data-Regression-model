@@ -37,6 +37,6 @@ The project uses scikit-learn's Linear Regression model to predict insurance cos
 
 ## Results
 
-The model predicts health insurance costs based on the input features. Detailed performance metrics and visualizations can be found in the `notebooks/exploratory_data_analysis.ipynb` file.
+The model predicts health insurance costs based on the input features. Detailed performance metrics and visualizations can be found in the `notebooks.ipynb` file.
 
 ---
